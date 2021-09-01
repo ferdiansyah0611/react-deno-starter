@@ -1,0 +1,12 @@
+{
+  "name": "react-deno-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "deno bundle src/index.jsx public/app.js --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
